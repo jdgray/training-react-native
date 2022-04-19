@@ -7,6 +7,6 @@
 # Goals
 
 - Get the project running
-- When clicking the first item in the list, display a react native alert 
-- When clicking the second item in the list, a new text section should display
+- When clicking the first item in the list, display a modal
+- When clicking the second item in the list, display text in the view
 - When clicking the third item in the list, remove the fourth item in the list
